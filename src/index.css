@@ -193,3 +193,11 @@ button.toggle:focus {
     transform: scale(20);
   }
 }
+.none{
+  display: none;
+
+}
+
+.block{
+  display: block;
+}
